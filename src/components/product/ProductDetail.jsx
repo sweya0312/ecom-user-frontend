@@ -7,7 +7,7 @@ const ProductDetail = () => {
   const [product, setProduct] = useState();
   const { id } = useParams();
   // const url = "http://localhost:3001/api";
-  const url = "https://ecom-user-backend-rho.vercel.app//api";
+  const url = "https://ecom-user-backend-rho.vercel.app/api";
 
 
   useEffect(() => {
