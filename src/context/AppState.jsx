@@ -8,7 +8,7 @@ const AppState = (props) => {
   // const url = "http://localhost:3001/api";
 
   // Use the deployed backend API root (no trailing slash)
-  const url = "https://ecom-user-backend.vercel.app/api";
+  const url = "https://ecom-user-backend-rho.vercel.app/api";
 
 
   const [products, setProducts] = useState([]);
